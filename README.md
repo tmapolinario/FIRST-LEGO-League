@@ -14,3 +14,4 @@ Não necessita de instalação nem compilação. As ligações internas são rel
 O domínio www.fjuventude.firstlegoleague.pt não é configurado automaticamente.
 
 A política de privacidade foi adaptada ao projeto; os detalhes operacionais de conservação e de eventual partilha de dados ainda precisam de confirmação pela Fundação.
+Site FIRST LEGO League Portugal 2026/2027
